@@ -1,0 +1,15 @@
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.csproj.AssemblyReference.cache
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.AssemblyInfoInputs.cache
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.AssemblyInfo.cs
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.csproj.CoreCompileInputs.cache
+D:\FinalWorkC#\bin\Debug\net6.0\FinalWorkC#.exe
+D:\FinalWorkC#\bin\Debug\net6.0\FinalWorkC#.deps.json
+D:\FinalWorkC#\bin\Debug\net6.0\FinalWorkC#.runtimeconfig.json
+D:\FinalWorkC#\bin\Debug\net6.0\FinalWorkC#.dll
+D:\FinalWorkC#\bin\Debug\net6.0\FinalWorkC#.pdb
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.dll
+D:\FinalWorkC#\obj\Debug\net6.0\refint\FinalWorkC#.dll
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.pdb
+D:\FinalWorkC#\obj\Debug\net6.0\FinalWorkC#.genruntimeconfig.cache
+D:\FinalWorkC#\obj\Debug\net6.0\ref\FinalWorkC#.dll
